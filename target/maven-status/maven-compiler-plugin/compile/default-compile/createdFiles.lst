@@ -1,0 +1,5 @@
+com\operaton\model\UserRequest.class
+com\operaton\App.class
+com\operaton\service\EmailService.class
+com\operaton\controller\UserController.class
+com\operaton\service\OperatonService.class
